@@ -1,0 +1,3662 @@
+[
+  {
+    "week": 1,
+    "number": 1,
+    "lecture": 1,
+    "question": "Gross National Happiness (GNH) is organized around how many pillars and domains, respectively?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3 pillars and 8 domains",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "4 pillars and 9 domains",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "5 pillars and 10 domains",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "4 pillars and 8 domains",
+        "correct": false
+      }
+    ],
+    "id": "w1q1",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 2,
+    "lecture": 1,
+    "question": "Which of the following are domains of Gross National Happiness (GNH)? A. Health B. Community Vitality C. Time Use D. International Relations",
+    "options": [
+      {
+        "label": "I",
+        "text": "A and B only",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "B, C and D only",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "A, B and C only",
+        "correct": true
+      },
+      {
+        "label": "IV",
+        "text": "All of the above",
+        "correct": false
+      }
+    ],
+    "id": "w1q2",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 3,
+    "lecture": 1,
+    "question": "The Sustainable Development Goals (SDGs), adopted by the United Nations, aim to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Promote economic growth alone",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Achieve balanced social, economic, and environmental development by 2030",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Replace the Gross National Happiness framework",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Measure only national income",
+        "correct": false
+      }
+    ],
+    "id": "w1q3",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 4,
+    "lecture": 2,
+    "question": "Which of the following are identified as ways of classifying happiness? A. Self-driven vs. other-driven B. Short-term vs. long-term C. Physical vs. mental D. Externally-driven vs. privately-driven",
+    "options": [
+      {
+        "label": "I",
+        "text": "A and B only",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "B, C and D only",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "A, B and C only",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All of the above",
+        "correct": true
+      }
+    ],
+    "id": "w1q4",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 5,
+    "lecture": 2,
+    "question": "Which of the following dimensions is commonly used to distinguish different forms of happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Intensity and duration",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Population and density",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Climate and geography",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Occupation and education",
+        "correct": false
+      }
+    ],
+    "id": "w1q5",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 6,
+    "lecture": 2,
+    "question": "Which of the following is NOT commonly regarded as a related concept of happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Flourishing",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Subjective well-being",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Life satisfaction",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Inflation",
+        "correct": true
+      }
+    ],
+    "id": "w1q6",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 7,
+    "lecture": 3,
+    "question": "Which of the following best explains the relationship between culture and happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Culture has no influence on happiness.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Culture shapes how individuals perceive and experience happiness.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Happiness is determined only by genetics.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Happiness is the same across all societies.",
+        "correct": false
+      }
+    ],
+    "id": "w1q7",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 8,
+    "lecture": 3,
+    "question": "The concept of Biophilia primarily refers to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fear of natural environments.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Human tendency to connect with nature.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Dependence on technology.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Preference for urban lifestyles.",
+        "correct": false
+      }
+    ],
+    "id": "w1q8",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 9,
+    "lecture": 3,
+    "question": "Which of the following best represents the findings of research on urban happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Urban happiness depends only on income.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Green spaces, transport, and community design contribute to wellbeing.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Population density alone determines happiness.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Industrial development is the only determinant.",
+        "correct": false
+      }
+    ],
+    "id": "w1q9",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 10,
+    "lecture": 4,
+    "question": "Zhuangzi, a Daoist philosopher, suggests that happiness is nothing but wuwei (no contrived action), that is, using one's natural abilities and intuition to flow with one's environment.",
+    "options": [
+      {
+        "label": "A",
+        "text": "True",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "False",
+        "correct": false
+      }
+    ],
+    "id": "w1q10",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 11,
+    "lecture": 4,
+    "question": "Which philosophical approach evaluates actions according to their consequences for overall happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Daoism",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Utilitarianism",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Existentialism",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Epicureanism",
+        "correct": false
+      }
+    ],
+    "id": "w1q11",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 12,
+    "lecture": 4,
+    "question": "The philosophical question \"What makes a good life?\" is most closely associated with:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aristotle’s concept of Eudaimonia",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Charvaka philosophy",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Daoist Wu Wei",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Maslow's hierarchy",
+        "correct": false
+      }
+    ],
+    "id": "w1q12",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 13,
+    "lecture": 5,
+    "question": "Which of the following outcomes is commonly associated with higher levels of happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Greater resilience to stress",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Increased social withdrawal",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Reduced physical health",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Lower creativity",
+        "correct": false
+      }
+    ],
+    "id": "w1q13",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 14,
+    "lecture": 5,
+    "question": "Which among the following are keys to identify unhappiness? A. Social isolation B. Lack of self-confidence C. Lack of energy and motivation D. Positive emotion",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only A, B and C are true",
+        "correct": true
+      },
+      {
+        "label": "II",
+        "text": "Only A, B and D are true",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only B and D are true",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are true",
+        "correct": false
+      }
+    ],
+    "id": "w1q14",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 1,
+    "number": 15,
+    "lecture": 5,
+    "question": "Which of the following best represents an evidence-based happiness intervention?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Counting one's blessings regularly",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Avoiding communication with others",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Ignoring personal values",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Increasing material possessions alone",
+        "correct": false
+      }
+    ],
+    "id": "w1q15",
+    "source": "Week 1 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 1,
+    "lecture": 6,
+    "question": "Which of the following are considered benefits of studying the science of happiness? A. Developing self-awareness B. Managing difficult life situations C. Creating happiness for others D. Managing failures in life",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w2q1",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 2,
+    "lecture": 6,
+    "question": "Autonomy in happiness can refer to freedom of choice or meaningful physical and mental engagement.",
+    "options": [
+      {
+        "label": "A",
+        "text": "True",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "False",
+        "correct": false
+      }
+    ],
+    "id": "w2q2",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 3,
+    "lecture": 6,
+    "question": "In the context of happiness, affluence is best described as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Material wealth alone",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "The availability of bio-psycho-social resources that contribute to quality of life and prosperity.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Recognition received from society",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "The freedom to pursue personal interests",
+        "correct": false
+      }
+    ],
+    "id": "w2q3",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 4,
+    "lecture": 7,
+    "question": "Which of the following is NOT considered a myth about happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "More choices always make people happier.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Longer vacations always produce greater happiness.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Happiness is influenced only by money.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Forgiveness has great unburdening effect.",
+        "correct": true
+      }
+    ],
+    "id": "w2q4",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 5,
+    "lecture": 7,
+    "question": "Purchasing a gift for another person often produces greater happiness than buying one for oneself. Is this statement true?",
+    "options": [
+      {
+        "label": "A",
+        "text": "True",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "False",
+        "correct": false
+      }
+    ],
+    "id": "w2q5",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 6,
+    "lecture": 7,
+    "question": "Which of the following statements regarding money and happiness are correct? A. Income contributes to happiness up to a certain point. B. Happiness increases indefinitely with income. C. Happiness begins to plateau after a decent salary",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and c are correct",
+        "correct": true
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": false
+      }
+    ],
+    "id": "w2q6",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 7,
+    "lecture": 8,
+    "question": "The concept of \"moment\" in happiness research primarily refers to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Remembered life experiences",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Immediate present experiences and feelings.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Long-term life satisfaction",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Future expectations",
+        "correct": false
+      }
+    ],
+    "id": "w2q7",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 8,
+    "lecture": 8,
+    "question": "Happy individuals differ from others primarily in the way they process information rather than in the number of life challenges they face.",
+    "options": [
+      {
+        "label": "A",
+        "text": "True",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "False",
+        "correct": false
+      }
+    ],
+    "id": "w2q8",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 9,
+    "lecture": 8,
+    "question": "Which of the following unanswered questions are discussed in happiness research? A. Genotype versus Phenotype B. Memory versus Moment C. Hopefulness versus Helplessness D. Inflation versus Unemployment",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": true
+      },
+      {
+        "label": "III",
+        "text": "Only b and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": false
+      }
+    ],
+    "id": "w2q9",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 10,
+    "lecture": 9,
+    "question": "Traits that improve an organism's ability to survive and reproduce are more likely to be:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Eliminated from future generations.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Passed on to offspring.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Independent of evolution.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Influenced only by culture.",
+        "correct": false
+      }
+    ],
+    "id": "w2q10",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 11,
+    "lecture": 9,
+    "question": "Which of the following characteristics are commonly associated with pleasure? A. Short-term experience B. Addictive C. Desire for more D. Long-term contentment",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": true
+      },
+      {
+        "label": "III",
+        "text": "Only b and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": false
+      }
+    ],
+    "id": "w2q11",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 12,
+    "lecture": 9,
+    "question": "A person receives a promotion and experiences excitement for a few days, but later returns to their usual emotional state and begins seeking another achievement. This situation best illustrates:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Long-term happiness",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Short-term pleasure associated with reward.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Permanent life satisfaction",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Emotional resilience",
+        "correct": false
+      }
+    ],
+    "id": "w2q12",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 13,
+    "lecture": 10,
+    "question": "Belief can best be defined as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "A temporary emotional reaction.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "A state in which someone holds a premise to be true.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "A biological response to stress.",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "A genetically inherited behaviour.",
+        "correct": false
+      }
+    ],
+    "id": "w2q13",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 14,
+    "lecture": 10,
+    "question": "Which type of belief is concerned with how the world appears to an individual?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Opinion",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Prediction",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Perception",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Meta-belief",
+        "correct": false
+      }
+    ],
+    "id": "w2q14",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 2,
+    "number": 15,
+    "lecture": 10,
+    "question": "A placebo may produce measurable biological changes even though it contains no active medicine.",
+    "options": [
+      {
+        "label": "A",
+        "text": "True",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "False",
+        "correct": false
+      }
+    ],
+    "id": "w2q15",
+    "source": "Week 2 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 1,
+    "lecture": 11,
+    "question": "A student says to a friend, “I cannot completely know what you are going through, but I want to understand how this situation feels from your perspective.” This response most closely reflects:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sympathy",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Empathy",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Apathy",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Emotional contagion",
+        "correct": false
+      }
+    ],
+    "id": "w3q1",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 2,
+    "lecture": 11,
+    "question": "Practising empathy in an organisation may require leaders to demonstrate which combination of qualities?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vulnerability and humility",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Competition and authority",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Detachment and rigidity",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Aggression and confidence",
+        "correct": false
+      }
+    ],
+    "id": "w3q2",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 3,
+    "lecture": 11,
+    "question": "Which sequence best represents the relationship described in the lecture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Compassion → intimacy → reciprocity → greater connectedness",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Intimacy → isolation → compassion → reciprocity",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Reciprocity → loneliness → intimacy → compassion",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Compassion → conflict → isolation → reciprocity",
+        "correct": false
+      }
+    ],
+    "id": "w3q3",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 4,
+    "lecture": 12,
+    "question": "Which of the following are identified as possible reasons for the decline of empathy? a. News fatigue b. Selective apathy c. Excessive online interaction d. Increased face-to-face interaction",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": true
+      },
+      {
+        "label": "III",
+        "text": "Only b, c and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": false
+      }
+    ],
+    "id": "w3q4",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 5,
+    "lecture": 12,
+    "question": "Which of the following statements are consistent with the discussion on changing morality? a. People's understanding of good and bad can change over time. b. Compassion-based morality has gained greater prominence. c. Fairness-based morality has gained greater prominence. d. Moral standards remain exactly the same across generations.",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": true
+      },
+      {
+        "label": "III",
+        "text": "Only b and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": false
+      }
+    ],
+    "id": "w3q5",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 6,
+    "lecture": 12,
+    "question": "Which of the following correctly describe the paradoxes associated with social change? a. Major changes can occur within a single generation. b. Changes can involve reorientation of basic values. c. Change can create new ambiguities and inequalities. d. Changing expectations can lead to frustration.",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w3q6",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 7,
+    "lecture": 13,
+    "question": "Which of the following best represents the relationship between the “Self” and the “Other”?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The Self exists independently of the Other",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "The Other has no role in defining identity",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "The Self and the Other are related through give-and-take and relationships",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "The Self should always be separated from society",
+        "correct": false
+      }
+    ],
+    "id": "w3q7",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 8,
+    "lecture": 13,
+    "question": "Which literary concept is associated with Fernando Pessoa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Allegory",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Heteronyms",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Epic poetry",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Stream of consciousness",
+        "correct": false
+      }
+    ],
+    "id": "w3q8",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 9,
+    "lecture": 13,
+    "question": "Which of the following represents the “eternal struggle” discussed in relation to the Self and the Other?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pleasure vs. pain",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Thinking vs. waiting",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cooperation vs. competition",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Wealth vs. poverty",
+        "correct": false
+      }
+    ],
+    "id": "w3q9",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 10,
+    "lecture": 14,
+    "question": "At which level is cooperation explained in terms of genetic coding and natural selection?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cultural level",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Evolutionary level",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Psychological level",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Institutional level",
+        "correct": false
+      }
+    ],
+    "id": "w3q10",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 11,
+    "lecture": 14,
+    "question": "Which of the following abilities are associated with mirror neurons in the lecture? a. Imitation b. Understanding others' actions c. Understanding others' emotions d. Empathy",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w3q11",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 12,
+    "lecture": 14,
+    "question": "According to the “Give-Take-Match” framework, people who like to give more than they take are described as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Takers",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Matchers",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Givers",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Competitors",
+        "correct": false
+      }
+    ],
+    "id": "w3q12",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 13,
+    "lecture": 15,
+    "question": "Which of the following best describes the five components of PERMA?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Positive emotions, Engagement, Relationships, Meaning and Achievement",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Positive emotions, Empathy, Resilience, Meaning and Awareness",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Pleasure, Engagement, Reciprocity, Motivation and Achievement",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Personality, Emotion, Relationships, Morality and Action",
+        "correct": false
+      }
+    ],
+    "id": "w3q13",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 14,
+    "lecture": 15,
+    "question": "Which of the following combinations represents strengths particularly relevant to managing excess and personal impulses?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Forgiveness, Humility, Prudence and Self-regulation",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Creativity, Curiosity, Love of learning and Perspective",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Love, Kindness, Social intelligence and Leadership",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Gratitude, Hope, Humor and Spirituality.",
+        "correct": false
+      }
+    ],
+    "id": "w3q14",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 3,
+    "number": 15,
+    "lecture": 15,
+    "question": "A leader is faced with a difficult decision and carefully considers possible consequences before acting. Which character strength would be most useful in this situation?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Prudence",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Humor",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Gratitude",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Vitality",
+        "correct": false
+      }
+    ],
+    "id": "w3q15",
+    "source": "Week 3 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 1,
+    "lecture": 16,
+    "question": "According to the Harvard Study of Adult Development, which factor was found to have a powerful influence on health?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Wealth alone",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Relationship satisfaction",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Physical infrastructure",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Professional achievement",
+        "correct": false
+      }
+    ],
+    "id": "w4q1",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 2,
+    "lecture": 16,
+    "question": "Which of the following aspects of relationships is specifically associated with their effect on others? a. Gratitude b. Generosity c. Trust d. Social support",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w4q2",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 3,
+    "lecture": 16,
+    "question": "According to the lecture's rural–urban comparison, which relationship-related factor is particularly associated with rural communities?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Forgiveness",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Freedom",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Festivals",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Non-interference",
+        "correct": false
+      }
+    ],
+    "id": "w4q3",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 4,
+    "lecture": 17,
+    "question": "In the example of a village, the same people can form different networks depending on the activity. Which of the following is given as an example?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fire fighting",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Educational help",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Voting and election",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "All of the above",
+        "correct": true
+      }
+    ],
+    "id": "w4q4",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 5,
+    "lecture": 17,
+    "question": "Consider the following statements about networks: a. Networks can involve short-term ties. b. Networks can also involve long-term ties. c. Different things can flow across network ties. d. Networks remain unchanged once they are formed.",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": true
+      },
+      {
+        "label": "III",
+        "text": "Only b and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": false
+      }
+    ],
+    "id": "w4q5",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 6,
+    "lecture": 17,
+    "question": "The finding that friends' friends can influence an individual beyond direct relationships is referred to as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hyperdyadic spread",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Direct reciprocity",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Centrality effect",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Network isolation",
+        "correct": false
+      }
+    ],
+    "id": "w4q6",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 7,
+    "lecture": 18,
+    "question": "In July 2011, which resolution was adopted by the UN General Assembly concerning happiness and development?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Resolution 65/309",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Resolution 70/309",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Resolution 60/309",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Resolution 75/309",
+        "correct": false
+      }
+    ],
+    "id": "w4q7",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 8,
+    "lecture": 18,
+    "question": "The first World Happiness Report was released using data from which source?",
+    "options": [
+      {
+        "label": "A",
+        "text": "World Bank Survey",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Gallup World Poll",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "UNDP Census",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "OECD Survey",
+        "correct": false
+      }
+    ],
+    "id": "w4q8",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 9,
+    "lecture": 18,
+    "question": "Consider the following statements based on the lecture: a. Life evaluation rises steadily with income. b. Emotional well-being levels off at $75,000 per year. c. Higher earners report more stress.",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a is correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All three are correct",
+        "correct": true
+      }
+    ],
+    "id": "w4q9",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 10,
+    "lecture": 19,
+    "question": "Which of the following represents a possible relationship between optimism and depression?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Strong positive relationship",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Strong negative relationship",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "No relationship",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "The relationship changes only with age",
+        "correct": false
+      }
+    ],
+    "id": "w4q10",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 11,
+    "lecture": 19,
+    "question": "A person believes that a current business loss is mainly due to unusual market conditions and expects the situation to improve when the market stabilizes. Which type of thinking is illustrated?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dispositional optimism",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Explanatory optimism",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Optimistic bias",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Defensive pessimism",
+        "correct": false
+      }
+    ],
+    "id": "w4q11",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 12,
+    "lecture": 19,
+    "question": "A person postpones worrying about an upcoming stressful event and instead focuses on other activities until the event approaches. This behaviour is most consistent with:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Strategic optimism",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Pessimistic bias",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Explanatory pessimism",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Learned helplessness",
+        "correct": false
+      }
+    ],
+    "id": "w4q12",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 13,
+    "lecture": 20,
+    "question": "Which sequence best represents the process through which belongingness contributes to well-being?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Belongingness → intimacy → connectivity → giving back → well-being",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Belongingness → isolation → rejection → withdrawal → well-being",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Belongingness → competition → achievement → isolation → well-being",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Belongingness → conformity → rejection → loneliness → well-being",
+        "correct": false
+      }
+    ],
+    "id": "w4q13",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 14,
+    "lecture": 20,
+    "question": "Which of the following is NOT identified as a consequence of alienation?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Low self-esteem",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Depression",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Sense of insecurity",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Increased intimacy",
+        "correct": true
+      }
+    ],
+    "id": "w4q14",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 4,
+    "number": 15,
+    "lecture": 20,
+    "question": "Which of the following is an example of a non-premeditated act?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Soldiers risking their lives to save their comrades",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Purchasing insurance for oneself",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Saving money for future use",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Competing for a promotion",
+        "correct": false
+      }
+    ],
+    "id": "w4q15",
+    "source": "Week 4 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 1,
+    "lecture": 21,
+    "question": "Consider the following statements about facial expressions that go unnoticed: a. They may be evident during deception or masking. b. They typically last for less than 0.9 seconds. c. They are spontaneous and involuntary. d. They may indicate behavioural leakage during stress or low confidence.",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, c and d are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b, c and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w5q1",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 2,
+    "lecture": 21,
+    "question": "Which of the following can contribute to failure in communicating happiness? a. Incorrect assumptions b. Failure to articulate what to say c. Failure to express nonverbally how to say it",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a is correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w5q2",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 3,
+    "lecture": 21,
+    "question": "A person says “uh-uh” without using a conventional word, but the sound communicates affirmation or negation. This is an example of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vocal segregate",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Kinesics",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Proxemics",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Facial expression",
+        "correct": false
+      }
+    ],
+    "id": "w5q3",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 4,
+    "lecture": 22,
+    "question": "Which sequence best represents the concluding approach to failure presented in the lecture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Accept failure → nurture mindset → implement new skills → align with the future → remain true to oneself",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Avoid failure → maintain old habits → focus on the past → seek immediate success",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Reject failure → suppress emotions → avoid new skills → focus only on success",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Accept failure → avoid challenges → rely on old habits → focus on past achievements",
+        "correct": false
+      }
+    ],
+    "id": "w5q4",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 5,
+    "lecture": 22,
+    "question": "Consider the following factors: a. Arrogance b. Comfort c. Poor self-regulation d. Self-awareness Which combination contains factors identified as impediments to resilience?",
+    "options": [
+      {
+        "label": "I",
+        "text": "a, b and c only",
+        "correct": true
+      },
+      {
+        "label": "II",
+        "text": "a, c and d only",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "b, c and d only",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All four",
+        "correct": false
+      }
+    ],
+    "id": "w5q5",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 6,
+    "lecture": 22,
+    "question": "Consider the following statements about a resilient person: a. They accept and experience the full range of emotions. b. They consider alternative possibilities. c. They accept responsibilities for their own mistakes rather than automatically blaming others.",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a is correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w5q6",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 7,
+    "lecture": 23,
+    "question": "How do happy people tend to respond when they encounter a failure or a potential dead- end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They immediately abandon the problem.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "They wait for someone else to provide a solution.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "They strive to find innovative solutions.",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "They continue using the same unsuccessful approach.",
+        "correct": false
+      }
+    ],
+    "id": "w5q7",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 8,
+    "lecture": 23,
+    "question": "Innovations based on the knowledge system that is locally available are called",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inductive innovations",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Indigenous innovations",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Inexpensive innovations",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Intuitive innovations",
+        "correct": false
+      }
+    ],
+    "id": "w5q8",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 9,
+    "lecture": 23,
+    "question": "Which combination represents the contrasts used in the lecture to explain why certain innovations fail? i. Evidence-based vs. one-hit victory story; ii. Scalable vs. non-expandable model; iii. Low-risk/low-cost vs. high-risk/high-cost model; iv. Need vs. want.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only i and ii",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Only ii and iii",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Only i, ii and iii",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "All of the above",
+        "correct": true
+      }
+    ],
+    "id": "w5q9",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 10,
+    "lecture": 24,
+    "question": "Stress is particularly associated with our inability to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Socialize with others",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Resolve conflicts and take decisions",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Work for long hours",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Avoid all pressure",
+        "correct": false
+      }
+    ],
+    "id": "w5q10",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 11,
+    "lecture": 24,
+    "question": "Which combination contains symptoms of stress? i. Frequent headaches; ii. Constant feeling of strain; iii. Excessive tiredness; iv. Feeling cheerful.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only i and ii",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Only ii and iii",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Only i, ii and iii",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "All of the above",
+        "correct": false
+      }
+    ],
+    "id": "w5q11",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 12,
+    "lecture": 24,
+    "question": "A person feels that their efficiency is rarely acknowledged and becomes uncertain about how to improve their performance. Which impact of stress does this reflect?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uncertainty regarding efficiency and recognition",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Improved cognitive functioning",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Increased resilience",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Reduced emotional sensitivity",
+        "correct": false
+      }
+    ],
+    "id": "w5q12",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 13,
+    "lecture": 25,
+    "question": "A student is highly focused on obtaining a particular academic outcome and begins to view any failure as proof that the entire effort was meaningless. Which approach would be most appropriate?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Avoid all future academic goals",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Redefine success and recognise that failure is not orthogonal to success",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Focus exclusively on immediate outcomes",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Increase negative self-talk",
+        "correct": false
+      }
+    ],
+    "id": "w5q13",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 14,
+    "lecture": 25,
+    "question": "What is the purpose of balancing flexibility and discipline?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To eliminate all responsibilities",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "To establish priorities among duty, family and career",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "To avoid making decisions",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "To focus exclusively on one's career",
+        "correct": false
+      }
+    ],
+    "id": "w5q14",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 5,
+    "number": 15,
+    "lecture": 25,
+    "question": "Which of the following is recommended regarding decision-making during daily stress?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Take major decisions immediately",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Avoid taking big decisions while under stress",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Always choose the riskiest alternative",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Make decisions without considering consequences",
+        "correct": false
+      }
+    ],
+    "id": "w5q15",
+    "source": "Week 5 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 1,
+    "lecture": 26,
+    "question": "Which of the following describes a change in the way people trust one another after COVID- 19?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Co-habitation stress",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Social paranoia",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Procrastination",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Social mobility",
+        "correct": false
+      }
+    ],
+    "id": "w6q1",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 2,
+    "lecture": 26,
+    "question": "The way of experiencing tragedy after COVID-19 is described as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Behaviour fatigue",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Secondary trauma",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Optimism bias",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Social inhibition",
+        "correct": false
+      }
+    ],
+    "id": "w6q2",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 3,
+    "lecture": 26,
+    "question": "Why should one avoid optimism bias during difficult circumstances?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Difficult realities should not be ignored through unrealistic optimism",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Happiness is impossible during adversity",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Positive thinking should always be avoided",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Uncertainty can always be eliminated",
+        "correct": false
+      }
+    ],
+    "id": "w6q3",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 4,
+    "lecture": 27,
+    "question": "The term sati or smriti, associated with mindfulness, is most closely related to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Awareness of things in relation to things",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Complete withdrawal from consciousness",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Physical exercise",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Suppression of mental phenomena",
+        "correct": false
+      }
+    ],
+    "id": "w6q4",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 5,
+    "lecture": 27,
+    "question": "Which of the following correctly represents the meaning of the Latin term meditatio?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To control physical movement",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "To withdraw from society",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "To think, reflect, devise or ponder",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "To eliminate consciousness",
+        "correct": false
+      }
+    ],
+    "id": "w6q5",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 6,
+    "lecture": 27,
+    "question": "The Sanskrit root dhyai, from which dhyana is derived, primarily means:",
+    "options": [
+      {
+        "label": "A",
+        "text": "To contemplate or meditate",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "To physically exercise",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "To communicate with others",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "To control external objects",
+        "correct": false
+      }
+    ],
+    "id": "w6q6",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 7,
+    "lecture": 28,
+    "question": "Which of the following is presented as a focus area in practising meditation and mindfulness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Breath",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Consciousness",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Visualisation",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "All of the above",
+        "correct": true
+      }
+    ],
+    "id": "w6q7",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 8,
+    "lecture": 28,
+    "question": "A practice toolkit developed for the workplace is particularly associated with which of the following?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Search Inside Yourself",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Bodyscan Meditation",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Simran",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Samatha",
+        "correct": false
+      }
+    ],
+    "id": "w6q8",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 9,
+    "lecture": 28,
+    "question": "Consider the following areas associated with contemporary mindfulness practices: a. Workplace b. Chronic pain relief c. Emotional intelligence d. Concentration",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b, c and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w6q9",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 10,
+    "lecture": 29,
+    "question": "Which of the following best describes creativity?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The use of imagination or original ideas to create something new",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "The ability to memorize information quickly",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "The process of following established rules",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "The ability to understand something instinctively",
+        "correct": false
+      }
+    ],
+    "id": "w6q10",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 11,
+    "lecture": 29,
+    "question": "Which characteristic of intuition emphasizes that it occurs almost without conscious thought?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Heuristic",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Analytical",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Systematic",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Deductive",
+        "correct": false
+      }
+    ],
+    "id": "w6q11",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 12,
+    "lecture": 29,
+    "question": "Which of the following is associated with the experience of flow?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Complete absence of activity",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Continuous distraction",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Intense focus and creative engagement",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Full of awareness",
+        "correct": false
+      }
+    ],
+    "id": "w6q12",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 13,
+    "lecture": 30,
+    "question": "Brainstorming is primarily characterised by group-based generation of ideas.",
+    "options": [
+      {
+        "label": "A",
+        "text": "True",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "False",
+        "correct": false
+      }
+    ],
+    "id": "w6q13",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 14,
+    "lecture": 30,
+    "question": "A designer examines a pen in terms of its material, shape, colours and textures before considering alternatives for each characteristic. This illustrates:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Free association",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Attribute listing",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Blue Hat thinking",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Trial and error",
+        "correct": false
+      }
+    ],
+    "id": "w6q14",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 6,
+    "number": 15,
+    "lecture": 30,
+    "question": "How does centred association differ from serial association?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It focuses on one central trigger around which ideas develop",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "It completely avoids triggers",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "It records the flow of ideas that come to mind",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "It requires immediate judgment",
+        "correct": false
+      }
+    ],
+    "id": "w6q15",
+    "source": "Week 6 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 1,
+    "lecture": 31,
+    "question": "A person feels angry during an argument but chooses to recognise the feeling before deciding how to respond. Which ability is being demonstrated?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Managing feelings and impulses",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Technical competence",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Public speaking",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Social comparison",
+        "correct": false
+      }
+    ],
+    "id": "w7q1",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 2,
+    "lecture": 31,
+    "question": "Which of the following is NOT included among the difficulties associated with knowing the self?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Unrealistic goals",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Relentless striving",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Preoccupation with appearances",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Acceptance of failure",
+        "correct": true
+      }
+    ],
+    "id": "w7q2",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 3,
+    "lecture": 31,
+    "question": "A manager recognises that she is becoming frustrated during a meeting and deliberately considers both her emotional response and the facts before making a decision. This illustrates:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Balance between emotion and reason",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Blind ambition",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Preoccupation with appearances",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Unrealistic goal setting",
+        "correct": false
+      }
+    ],
+    "id": "w7q3",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 4,
+    "lecture": 32,
+    "question": "Which combination most closely reflects the outcomes associated with happy people at work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Better decisions, skill development, responsibility and trust",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Higher competition, reduced cooperation and risk avoidance",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Greater dependence, reduced responsibility and conformity",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Higher salary, shorter working hours and job security",
+        "correct": false
+      }
+    ],
+    "id": "w7q4",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 5,
+    "lecture": 32,
+    "question": "Which of the following combinations represents indicators of happiness at work mentioned in the lecture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Competition, financial dependence and strict supervision",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sunday evening anxiety, workplace withdrawal and avoidance",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Excitement about work, enjoyment of work and feeling of doing something valuable",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Conflict, uncertainty and reduced responsibility",
+        "correct": false
+      }
+    ],
+    "id": "w7q5",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 6,
+    "lecture": 32,
+    "question": "Which factor is identified as potentially more influential than economic reward in motivating people?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Strict supervision",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Social reward and empowerment",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Individual competition",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Increased workload",
+        "correct": false
+      }
+    ],
+    "id": "w7q6",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 7,
+    "lecture": 33,
+    "question": "How does behavioural economics differ from standard economics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Behavioural economics assumes that people always make perfectly rational decisions",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Behavioural economics recognises that decisions can be automatic and influenced by emotions",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Behavioural economics ignores human emotions",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Behavioural economics assumes that people never make automatic decisions",
+        "correct": false
+      }
+    ],
+    "id": "w7q7",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 8,
+    "lecture": 33,
+    "question": "Prohibiting the sale of alcohol to minors is presented in the lecture as an example of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mandates",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Restriction",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Nudging",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Marketing limits",
+        "correct": false
+      }
+    ],
+    "id": "w7q8",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 9,
+    "lecture": 33,
+    "question": "Warning labels on tobacco products are an example of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Communicating risk",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Routine removal",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Restriction",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Decision architecture",
+        "correct": false
+      }
+    ],
+    "id": "w7q9",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 10,
+    "lecture": 34,
+    "question": "Which type of subjective parameter is described as easiest to change?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Slow and gradual parameters",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Medium-term parameters",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Long-term parameters",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Short-term parameters",
+        "correct": true
+      }
+    ],
+    "id": "w7q10",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 11,
+    "lecture": 34,
+    "question": "Gross National Wellbeing (GNW) was proposed in:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2001",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "2004",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "2006",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "2010",
+        "correct": false
+      }
+    ],
+    "id": "w7q11",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 12,
+    "lecture": 34,
+    "question": "Which of the following is associated with the City dimension in the generic view of wellbeing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Financial security",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Cultural participation",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Low inflation",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Good health",
+        "correct": false
+      }
+    ],
+    "id": "w7q12",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 13,
+    "lecture": 35,
+    "question": "Which of the following is described as a characteristic of habits?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They always require conscious deliberation",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "They do not have to be consciously thought about",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "They cannot evolve",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "They cannot contribute to progress",
+        "correct": false
+      }
+    ],
+    "id": "w7q13",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 14,
+    "lecture": 35,
+    "question": "Why do habits require rituals according to the material?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rituals connect symbols with meanings and practices",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Rituals eliminate all habits",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Rituals prevent behavioural change",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Rituals are used only for entertainment",
+        "correct": false
+      }
+    ],
+    "id": "w7q14",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 7,
+    "number": 15,
+    "lecture": 35,
+    "question": "Creativity in the context of change is associated with:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Resistance",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Rigidity",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Adaptability",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Repetition",
+        "correct": false
+      }
+    ],
+    "id": "w7q15",
+    "source": "Week 7 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 1,
+    "lecture": 36,
+    "question": "Which of the following is listed as a method for measuring happiness? a. Self-report b. Psychometry c. Behaviour signature analysis d. Affective computing",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b, c and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w8q1",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 2,
+    "lecture": 36,
+    "question": "Which of the following is included under the self-report method of measuring happiness?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Psychometric tests",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Neuroimaging",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Social media",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Affect imaging",
+        "correct": false
+      }
+    ],
+    "id": "w8q2",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 3,
+    "lecture": 36,
+    "question": "Which of the following is NOT listed as a projective technique?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sentence completion",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Picture sorting",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Thought listing",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Neuroimaging",
+        "correct": true
+      }
+    ],
+    "id": "w8q3",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 4,
+    "lecture": 37,
+    "question": "Which two concepts are associated with Daniel Kahneman and Edward Diener, respectively?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Instant utility and subjective well-being",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Subjective well-being and instant utility",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Consumer utility and life satisfaction",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Happiness and advertising",
+        "correct": false
+      }
+    ],
+    "id": "w8q4",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 5,
+    "lecture": 37,
+    "question": "The concept of “set point” is related to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Advertising expenditure",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "What happens when we get what we want",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Product pricing",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Consumer choice architecture",
+        "correct": false
+      }
+    ],
+    "id": "w8q5",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 6,
+    "lecture": 37,
+    "question": "Which of the following is identified as one way advertisements may contribute to wellbeing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They reduce consumption",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "They eliminate all desires",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "They give us information",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "They prevent comparison with others",
+        "correct": false
+      }
+    ],
+    "id": "w8q6",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 7,
+    "lecture": 38,
+    "question": "Technology really makes a difference to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Happiness",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Development and wellbeing",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Both A and B",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Neither A nor B",
+        "correct": false
+      }
+    ],
+    "id": "w8q7",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 8,
+    "lecture": 38,
+    "question": "Which of the following indicators has increased with technological advancement?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Longevity",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Infant mortality",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Poverty",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "None of the above",
+        "correct": false
+      }
+    ],
+    "id": "w8q8",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 9,
+    "lecture": 38,
+    "question": "Which additional factor is represented on the technology and happiness diagram?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Education",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Climate",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Wealth",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "Power",
+        "correct": false
+      }
+    ],
+    "id": "w8q9",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 10,
+    "lecture": 39,
+    "question": "Which of the following are used in the Behaviormetry: a. Eye tracking b. The color of face c. Vocalics d. Kinesics",
+    "options": [
+      {
+        "label": "I",
+        "text": "Only a and b are correct",
+        "correct": false
+      },
+      {
+        "label": "II",
+        "text": "Only a, b and c are correct",
+        "correct": false
+      },
+      {
+        "label": "III",
+        "text": "Only b, c and d are correct",
+        "correct": false
+      },
+      {
+        "label": "IV",
+        "text": "All are correct",
+        "correct": true
+      }
+    ],
+    "id": "w8q10",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 11,
+    "lecture": 39,
+    "question": "The poetry and visual arts research explores:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Consumer preferences",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phenomenological exploration of pain",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Political attitudes",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Economic behaviour",
+        "correct": false
+      }
+    ],
+    "id": "w8q11",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 12,
+    "lecture": 39,
+    "question": "Music and Galvanic Skin Response (GSR) research asks:",
+    "options": [
+      {
+        "label": "A",
+        "text": "How is music distributed?",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "How do people purchase musical instruments?",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "How does the body react to positive and negative music?",
+        "correct": true
+      },
+      {
+        "label": "D",
+        "text": "How is music copyrighted?",
+        "correct": false
+      }
+    ],
+    "id": "w8q12",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 13,
+    "lecture": 40,
+    "question": "Social innovations may arise from improvements related to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Working conditions",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Education",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Community development",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "All of the above",
+        "correct": true
+      }
+    ],
+    "id": "w8q13",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 14,
+    "lecture": 40,
+    "question": "Social innovations are described in the lecture as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Open source",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Privately owned only",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Restricted to governments",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Restricted to universities",
+        "correct": false
+      }
+    ],
+    "id": "w8q14",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  },
+  {
+    "week": 8,
+    "number": 15,
+    "lecture": 40,
+    "question": "Which of the following is included among the global examples?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Microfinance",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Fair trade",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Habitat conservation",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "All of the above",
+        "correct": true
+      }
+    ],
+    "id": "w8q15",
+    "source": "Week 8 Assignment PDF",
+    "answerNote": "Suggested answer key inferred from the question wording; the PDFs refer to lecture material rather than printing answer keys."
+  }
+]

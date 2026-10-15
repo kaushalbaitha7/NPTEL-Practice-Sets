@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111827">
+  <title>Science of Happiness — NPTEL Practice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand-mark">✦</div>
+      <div><p class="eyebrow">NPTEL • AUG–NOV 2026</p><h1>Science of Happiness</h1></div>
+      <div class="header-pill">120-question bank</div>
+    </header>
+
+    <section class="hero">
+      <div>
+        <p class="eyebrow">YOUR LAST-MILE REVISION PARTNER</p>
+        <h2>Practice gently.<br><span>Remember confidently.</span></h2>
+        <p class="hero-copy">All questions from Weeks 1–8 in one place. Retry as often as you like, shuffle the order, and revisit every mistake.</p>
+      </div>
+      <div class="hero-art" aria-hidden="true"><span class="sun"></span><span class="orbit orbit1"></span><span class="orbit orbit2"></span><span class="leaf">✧</span></div>
+    </section>
+
+    <section id="setup" class="panel setup-panel">
+      <div class="section-heading"><div><p class="eyebrow">CHOOSE YOUR SESSION</p><h2>How would you like to practise?</h2></div></div>
+      <div class="setup-grid">
+        <label class="field"><span>Question set</span>
+          <select id="weekSelect">
+            <option value="all">All weeks — 120 questions</option>
+            <option value="1">Week 1 — 15 questions</option><option value="2">Week 2 — 15 questions</option>
+            <option value="3">Week 3 — 15 questions</option><option value="4">Week 4 — 15 questions</option>
+            <option value="5">Week 5 — 15 questions</option><option value="6">Week 6 — 15 questions</option>
+            <option value="7">Week 7 — 15 questions</option><option value="8">Week 8 — 15 questions</option>
+            <option value="wrong">Review my wrong answers</option><option value="unseen">Questions not answered correctly yet</option>
+          </select>
+        </label>
+        <label class="field"><span>Session style</span>
+          <select id="modeSelect"><option value="practice">Practice — instant feedback</option><option value="exam">Mock exam — answers at the end</option></select>
+        </label>
+        <label class="field"><span>Question order</span>
+          <select id="orderSelect"><option value="shuffle">Shuffle questions + options</option><option value="source">PDF order</option></select>
+        </label>
+        <label class="field"><span>Mock exam timer</span>
+          <select id="timerSelect"><option value="0">No timer</option><option value="30">30 minutes</option><option value="45">45 minutes</option><option value="60">60 minutes</option><option value="90">90 minutes</option></select>
+        </label>
+      </div>
+      <div class="setup-bottom"><p class="muted" id="bankCount">Loading question bank…</p><button class="primary-btn" id="startBtn">Start practising <span>→</span></button></div>
+    </section>
+
+    <section id="quiz" class="panel quiz-panel hidden">
+      <div class="quiz-top">
+        <div><p class="eyebrow" id="sessionLabel">PRACTICE SESSION</p><h2 id="weekHeading">All weeks</h2></div>
+        <div class="timer-box hidden" id="timerBox"><span>TIME LEFT</span><strong id="timer">00:00</strong></div>
+      </div>
+      <div class="progress-meta"><span id="progressText">Question 1 of 120</span><span id="scoreText">Answered correctly: 0</span></div>
+      <div class="progress-track"><div id="progressFill"></div></div>
+      <div class="question-meta"><span id="weekBadge">WEEK 1</span><span id="lectureBadge">LECTURE 1</span><button class="text-btn" id="markBtn">☆ Mark for review</button></div>
+      <h3 id="questionText" class="question-text"></h3>
+      <div id="options" class="options"></div>
+      <div id="feedback" class="feedback hidden" aria-live="polite"></div>
+      <div class="quiz-actions"><button class="secondary-btn" id="exitBtn">Exit session</button><div class="action-right"><button class="secondary-btn" id="prevBtn">← Previous</button><button class="primary-btn" id="nextBtn">Next question →</button></div></div>
+    </section>
+
+    <section id="results" class="panel results-panel hidden">
+      <div class="result-icon">✦</div><p class="eyebrow">SESSION COMPLETE</p><h2 id="resultTitle">Well done.</h2>
+      <p class="muted" id="resultSummary"></p>
+      <div class="result-stats"><div><strong id="resultCorrect">0</strong><span>Correct</span></div><div><strong id="resultAttempted">0</strong><span>Attempted</span></div><div><strong id="resultPercent">0%</strong><span>Accuracy</span></div></div>
+      <div class="result-actions"><button class="primary-btn" id="retryWrongBtn">Practise wrong answers</button><button class="secondary-btn" id="homeBtn">Back to setup</button></div>
+      <div id="reviewList" class="review-list"></div>
+    </section>
+
+    <footer><p>Made for focused revision, one question at a time.</p><p class="footer-note">Answer-key note: the PDFs cite lectures but do not print answer keys. The included keys are suggested from the question wording; verify uncertain items against your lecture notes.</p></footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
